@@ -1,30 +1,29 @@
 
 # E-Commerce Sales Analysis
 
-![ECommerce Dashboard-1](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/ECommerce%20Dashboard-1.png)
+![ECommerce Dashboard-1](https://github.com/surajnehe05/Power-BI-E-Commerce-Data-Analyst-Dashboard/blob/main/ECommerce%20Dashboard-1.png)
 
-![ECommerce Dashboard f-1](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/ECommerce%20Dashboard-2.png)
+![ECommerce Dashboard f-1](https://github.com/surajnehe05/Power-BI-E-Commerce-Data-Analyst-Dashboard/blob/main/ECommerce%20Dashboard-2.png)
 
-The interactive dashboard is designed to be used by Sellers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and market wise growth rates.
+This project is a **Power BI Dashboard** designed to analyze E-Commerce sales data.  
+It helps sellers and business owners gain insights into product performance, sales trends, and profitability across regions and categories.
 
 ## Introduction
 
 - this project is aimed at developing a Power BI Dashboard for generating insights about E-Commerce Sales
+  
+## 📊 Features
+- Interactive dashboards with filters for **yearly, quarterly, and market-wise growth**.
+- Analysis of **total sales, profit, categories, and regional performance**.
+- Time series forecasting for **future sales trends**.
+- Clear visualization of **Key Performance Indicators (KPIs)**.
 
-## Objective
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
-
-- the dataset can be accessed from this link:[ E-commerece sales dataset ](https://github.com/Vishal782004/Power-BI-E-Commerce-Data-Analysis-Dashboard/blob/main/E-commerece%20sales%20dataset.xlsx)
+- the dataset can be accessed from this link:[ E-commerece sales dataset ](https://github.com/surajnehe05/Power-BI-E-Commerce-Data-Analyst-Dashboard/blob/main/E-commerece%20sales%20dataset.xlsx)
 ## Process
-To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
-
-1. I can help identify key performance indicators (KPIs) and design an intuitive and visually appealing dashboard. This dashboard can include interactive visualizations and filtering capabilities, allowing users to explore data at different levels of detail.
-
-2. I can provide valuable insights to businesses about the effectiveness of their sales strategies through charts and visualizations. This will help them make informed decisions about how to improve their sales performance.
-
-3. I can leverage historic data and apply time series analysis to generate sales forecasts for the next 3 months. This will provide businesses with a better understanding of future sales trends, allowing them to plan and prepare accordingly.
-
-Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
+1. Identified KPIs for sales performance.
+2. Designed an interactive **Power BI dashboard** with charts and filters.
+3. Conducted **time series analysis** to forecast sales for the next 3 months.
+4. Extracted insights to optimize business strategy and profitability.
 ## Project Insights
 - The sales total for this period was 12.64 million, resulting in a profit of 1.47M.
 
